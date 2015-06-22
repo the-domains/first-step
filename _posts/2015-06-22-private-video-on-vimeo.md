@@ -23,8 +23,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://vimeo.com/108675710'
 title: Private Video on Vimeo
-datePublished: '2015-06-22T04:56:53.562Z'
-dateModified: '2015-06-22T05:03:29.345Z'
+datePublished: '2015-06-22T05:13:55.421Z'
+dateModified: '2015-06-22T05:13:55.421Z'
 sourcePath: _posts/2015-06-22-private-video-on-vimeo.md
 published: true
 _type: VideoObject
